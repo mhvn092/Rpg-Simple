@@ -1,0 +1,16 @@
+{
+  "name": "mhvn-rpg-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/debug": "^4.1.7",
+    "@types/typescript": "^2.0.0",
+    "debug": "^4.3.3"
+  }
+}
